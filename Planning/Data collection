@@ -1,1 +1,9 @@
+Satellite Data Source Selection :
 
+1. Select Satellite Imagery Providers : 
+    - NASA’s MODIS and Landsat 8
+    - Sentinel-2 (ESA)
+    - Commercial Providers (like Planet Labs)
+
+2. Data Access : 
+   use apis : Google Earth Engine/sentinel hub
